@@ -1,1 +1,1 @@
-# RestWebApiHelloWorld
+# Sample dotnet Web API project for distributed cache and distributed lock using redis
