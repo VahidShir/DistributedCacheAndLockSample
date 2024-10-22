@@ -1,4 +1,4 @@
-﻿namespace DistributedCacheSample.Models;
+﻿namespace DistributedCacheAndLockSample.Models;
 
 public class Order
 {

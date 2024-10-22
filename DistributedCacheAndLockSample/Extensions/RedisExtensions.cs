@@ -1,7 +1,7 @@
 ﻿using Microsoft.Extensions.Caching.Distributed;
 using System.Text.Json;
 
-namespace DistributedCacheSample.Extensions;
+namespace DistributedCacheAndLockSample.Extensions;
 
 public static class RedisExtensions
 {

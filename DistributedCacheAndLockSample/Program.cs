@@ -5,7 +5,7 @@ using RedLockNet.SERedis;
 using RedLockNet.SERedis.Configuration;
 using StackExchange.Redis;
 
-namespace DistributedCacheSample;
+namespace DistributedCacheAndLockSample;
 
 public class Program
 {

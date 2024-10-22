@@ -1,12 +1,12 @@
-﻿using DistributedCacheSample.Extensions;
-using DistributedCacheSample.Models;
+﻿using DistributedCacheAndLockSample.Extensions;
+using DistributedCacheAndLockSample.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Caching.Distributed;
 using RedLockNet;
 using System.Net;
-using Order = DistributedCacheSample.Models.Order;
+using Order = DistributedCacheAndLockSample.Models.Order;
 
-namespace DistributedCacheSample.Controllers;
+namespace DistributedCacheAndLockSample.Controllers;
 
 [Route("api/[Controller]")]
 [ApiController]

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DistributedCacheSample", "RestWebApiHelloWorld\DistributedCacheSample.csproj", "{D12CE473-D426-4E31-8846-B33E608696B4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DistributedCacheSample", "DistributedCacheAndLockSample\DistributedCacheAndLockSample.csproj", "{D12CE473-D426-4E31-8846-B33E608696B4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{1BF5C375-381C-4195-B060-160C87BED260}"
 	ProjectSection(SolutionItems) = preProject
